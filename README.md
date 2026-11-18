@@ -5,8 +5,8 @@
 | :--- | :--- |
 | Họ và tên | [Nguyễn Thị Hồng Gấm] |
 | MSSV | [079306039691] |
-| Lớp | [012012103402] |
 | Môn học | Lập trình ứng dụng di động |
+| Lớp | [012012103402] |
 
 # Compose Lab — Advanced Jetpack Compose
 
