@@ -1,4 +1,13 @@
 
+## Thông tin sinh viên
+
+| Thông tin | Nội dung |
+| :--- | :--- |
+| Họ và tên | [Nguyễn Thị Hồng Gấm] |
+| MSSV | [079306039691] |
+| Lớp | [012012103402] |
+| Môn học | Lập trình ứng dụng di động |
+
 # Compose Lab — Advanced Jetpack Compose
 
 Ứng dụng Android minh họa các kỹ thuật nâng cao trong Jetpack Compose, được xây dựng bằng **Kotlin, Jetpack Compose và Material 3**.
