@@ -28,15 +28,9 @@
 
 ## Mở và chạy
 
-1. Clone repository:
-
-   ```bash
-   git clone https://github.com/gam512/Advanced-Jetpack-Compose.git
-   ```
-
-2. Mở thư mục **src** trong Android Studio.
-3. Cài đặt Android SDK theo cấu hình Gradle hiện có và đồng bộ project.
-4. Chọn module `app` và chạy trên thiết bị hoặc máy ảo Android API 24 trở lên.
+1. Mở thư mục **src** trong Android Studio.
+2. Cài đặt Android SDK theo cấu hình Gradle hiện có và đồng bộ project.
+3. Chọn module `app` và chạy trên thiết bị hoặc máy ảo Android API 24 trở lên.
 
 Project gồm một module `:app`, package `com.example.advancedjetpackcompose`.
 
