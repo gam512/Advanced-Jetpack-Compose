@@ -13,7 +13,7 @@
 - **MSSV:**
 - **Lớp:**
 - **Môn học:** Lập trình ứng dụng di động
-- **Đề tài:** Chapter 15 – Advanced Jetpack Compose
+- **Đề tài:** Advanced Jetpack Compose
 
 ## Cấu trúc Repository
 
